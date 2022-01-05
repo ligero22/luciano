@@ -660,9 +660,7 @@ https://www.semprecomvocefm.com.br/
 #EXTINF:-1 tvg-id="LIGEIRO"tvg-logo="http://i.imgur.com/r22w1v6.png" group-title="RADIO GOSPEL",LIGEIRO
 http://node-16.zeno.fm/v1wtvztyd48uv.aac?rj-ttl=5&rj-tok=AAABfhzxbREAGSbHpq2UicMtSw
 
-#EXTINF:-1 tvg-id="RADIO Novo Tempo FM"tvg-logo="http://i.imgur.com/r22w1v6.png" group-title="RADIO GOSPEL",RADIO Novo Tempo FM
-http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-id="radio88 FM"tvg-logo="http://i.imgur.com/r22w1v6.png" group-title="RADIO GOSPEL",radio88 FM
 http://svrstream1.svreua.com:8188/;stream.mp3
 
